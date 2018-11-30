@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Local</string>
+    <string name="dyi_arts_and_crafts_store">DYI Arts and Crafts Store</string>
+    <string name="_14129_memorial_drive_ste_g">14129 Memorial Drive, Ste. G</string>
+    <string name="_281_616_5865">(281)-616-5865</string>
+    <string name="memorial_info_therusticbrush_com">Memorial.info@therusticbrush.com</string>
+    <string name="www_therusticbrush_com">www.therusticbrush.com</string>
 </resources>
